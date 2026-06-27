@@ -1,5 +1,7 @@
 # Within-family PGS: direct genetic effects vs genetic nurture
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20952065.svg)](https://doi.org/10.5281/zenodo.20952065)
+
 Application companion for the **Social Science Genetics** PhD position
 (VU Amsterdam & Amsterdam UMC, MSCA / GENPOP). It demonstrates the field's
 central identification problem and the standard fix, on simulated trios.
