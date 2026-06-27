@@ -1,0 +1,10 @@
+{
+  "true_direct": 0.3,
+  "true_nurture": 0.15,
+  "naive_population_pgs": 0.4454,
+  "within_family_coef_T": 0.4435,
+  "within_family_coef_NT": 0.1304,
+  "nurture_p": 7.178658518922636e-16,
+  "recovered_direct": 0.3131,
+  "recovered_nurture": 0.1304
+}
